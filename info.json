@@ -1,0 +1,17 @@
+{
+    "name": "ArtHouse-Tweaks",
+    "version": "0.0.1",
+    "title": "ArtHouse-Tweaks",
+    "author": "Bong_Cat",
+    "description": "Addon for correct work SborOchka modpack"
+    "factorio_version": "1.1",
+    "dependencies": [
+        "base >= 1.0",
+        "Krastorio2",
+        "aai-industry",
+        "space-exploration",
+        "bzvery"
+    ]
+
+
+}
